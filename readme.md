@@ -25,5 +25,5 @@ A simple but functional file server built with Python, designed for home use and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-file-server.git
-   cd python-file-server
+   git clone https://github.com/lakladon/PocketPyFile
+   cd PocketPyFile
